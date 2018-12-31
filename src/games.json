@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "name": "Game1",
+    "picture": "images/soccer.jpeg",
+    "reward": 100,
+    "price": 50,
+    "home": "German",
+    "visitor": "Argentina",
+    "location": "Lisco, Alabama",
+    "result1": false,
+    "result2": false
+  },
+  {
+    "id": 1,
+    "name": "Game2",
+    "picture": "images/basketball.jpeg",
+    "reward": 100,
+    "price": 50,
+    "home": "Laker",
+    "visitor": "Warriors",
+    "location": "Tooleville, West Virginia",
+    "result1": true,
+    "result2": false
+  },
+  {
+    "id": 2,
+    "name": "Game3",
+    "picture": "images/basketball.jpeg",
+    "reward": 100,
+    "price": 50,
+    "home": "Cavaliers",
+    "visitor": "Bulls",
+    "location": "Freeburn, Idaho",
+    "result1": true,
+    "result2": false
+  },
+  {
+    "id": 3,
+    "name": "Game4",
+    "picture": "images/soccer.jpeg",
+    "reward": 100,
+    "price": 50,
+    "home": "Barcelona",
+    "visitor": "Real Madrid",
+    "location": "Camas, Pennsylvania",
+    "result1": true,
+    "result2": false
+  }
+]
