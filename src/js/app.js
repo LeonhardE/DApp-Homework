@@ -101,7 +101,7 @@ App = {
       UserInstance = instance;
       return UserInstance.getteamnum.call();
     }).then(function(count){
-      $("#team").html("Team Account: " + count);
+      $("#team").html("Team Count: " + count);
     }).catch(function(err) {
       console.log(err.message);
     });
@@ -110,7 +110,7 @@ App = {
       UserInstance = instance;
       return UserInstance.getgamenum.call();
     }).then(function(count){
-      $("#game").html("Game Account: " + count);
+      $("#game").html("Game Count: " + count);
     }).catch(function(err) {
       console.log(err.message);
     });
